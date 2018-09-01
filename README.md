@@ -6,5 +6,5 @@
  * Gobang_dill文件夹是未打包，未压缩的exe，其中还包含所需的dill，保证可以在其他电脑观看，效果与Gobang.exe一样
  * SubDirectory文件夹是Gobang.exe的生成文件，可以随时删除
 # 项目截图
-![12](http://p7zfrx5uc.bkt.clouddn.com/%E4%BA%94%E5%AD%90%E6%A3%8B%E7%95%8C%E9%9D%A2.PNG)
-![](http://p7zfrx5uc.bkt.clouddn.com/%E4%BA%94%E5%AD%90%E6%A3%8B%E7%BB%93%E7%AE%97.PNG)
+![五子棋界面](http://p7zfrx5uc.bkt.clouddn.com/%E4%BA%94%E5%AD%90%E6%A3%8B%E7%95%8C%E9%9D%A2.PNG)
+![五子棋结算](http://p7zfrx5uc.bkt.clouddn.com/%E4%BA%94%E5%AD%90%E6%A3%8B%E7%BB%93%E7%AE%97.PNG)
